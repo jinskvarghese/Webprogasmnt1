@@ -1,0 +1,95 @@
+body {
+    background-color: #d1b3b3;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+#navbar {
+    list-style-type: none;
+    text-align: center;
+}
+
+#navbar li {
+    display: inline;
+    margin-right: 2vw;
+}
+
+#navbar a {
+    text-decoration: none;
+    color: #d1b3b3;
+}
+#navbar a:hover {
+    color: #050907;
+    font-weight: bold;
+}
+
+header {
+    background-color: #9a3131;
+    padding: 2vw 2vw 2vw 2vw;
+}
+
+#dp {
+    background-color: #1d794800;
+    padding: 0vw 5vw 3vw 5vw;
+    text-align: center;
+    font-weight: bold;
+    color: #2e322d;
+    font-size: 36.56px;
+}
+
+.content {
+    padding: 2vw 5vw 0vw 5vw;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+ul {
+    color: #9a3131;
+    font-size: 20px;
+    font-weight: normal;
+}
+
+
+table {
+    color: #9a3131;
+    font-size: 20px;
+    font-weight: normal;
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 20px;
+}
+  
+th, td {
+    border: 2px solid #050907;
+    padding: 8px;
+    text-align: center;
+}
+  
+th {
+    background-color: #d1b3b3;
+}
+  
+td:hover {
+    background-color: #9a3131;
+    color: #d1b3b3;
+}
+
+.red {
+    background-color: #9a3131;
+    padding: 2vw 2vw 2vw 2vw;
+    text-align: center;
+}
+
+audio{
+    width: 100%;
+}
+
+img {
+    width:40%;
+}
+  
+  
+
+  
+  
